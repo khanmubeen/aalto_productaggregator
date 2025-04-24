@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "aalto_productaggregator": {
+      "commandName": "Project",
+      "commandLineArgs": "--maxPrice=100"
+    }
+  }
+}

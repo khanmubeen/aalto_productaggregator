@@ -1,0 +1,190 @@
+{
+  "men's clothing": [
+    {
+      "Id": 3,
+      "Title": "Mens Cotton Jacket",
+      "Price": 55.99,
+      "Description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "Category": "men's clothing",
+      "Image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "Rating": {
+        "Rate": 4.7,
+        "Count": 500
+      },
+      "DiscountedPrice": 49.83,
+      "Stock": 66,
+      "PopularityScore": 36
+    },
+    {
+      "Id": 2,
+      "Title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "Price": 22.3,
+      "Description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "Category": "men's clothing",
+      "Image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "Rating": {
+        "Rate": 4.1,
+        "Count": 259
+      },
+      "DiscountedPrice": 19.4,
+      "Stock": 15,
+      "PopularityScore": 3
+    },
+    {
+      "Id": 4,
+      "Title": "Mens Casual Slim Fit",
+      "Price": 15.99,
+      "Description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "Category": "men's clothing",
+      "Image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "Rating": {
+        "Rate": 2.1,
+        "Count": 430
+      },
+      "DiscountedPrice": 14.55,
+      "Stock": 62,
+      "PopularityScore": 9
+    }
+  ],
+  "jewelery": [
+    {
+      "Id": 8,
+      "Title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "Price": 10.99,
+      "Description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "Category": "jewelery",
+      "Image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "Rating": {
+        "Rate": 1.9,
+        "Count": 100
+      },
+      "DiscountedPrice": 9.01,
+      "Stock": 5,
+      "PopularityScore": 0
+    },
+    {
+      "Id": 7,
+      "Title": "White Gold Plated Princess",
+      "Price": 9.99,
+      "Description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "Category": "jewelery",
+      "Image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "Rating": {
+        "Rate": 3.0,
+        "Count": 400
+      },
+      "DiscountedPrice": 8.29,
+      "Stock": 17,
+      "PopularityScore": 1
+    }
+  ],
+  "electronics": [
+    {
+      "Id": 9,
+      "Title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "Price": 64.0,
+      "Description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "Category": "electronics",
+      "Image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "Rating": {
+        "Rate": 3.3,
+        "Count": 203
+      },
+      "DiscountedPrice": 53.76,
+      "Stock": 72,
+      "PopularityScore": 46
+    }
+  ],
+  "women's clothing": [
+    {
+      "Id": 15,
+      "Title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "Price": 56.99,
+      "Description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "Category": "women's clothing",
+      "Image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "Rating": {
+        "Rate": 2.6,
+        "Count": 235
+      },
+      "DiscountedPrice": 52.43,
+      "Stock": 38,
+      "PopularityScore": 21
+    },
+    {
+      "Id": 17,
+      "Title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "Price": 39.99,
+      "Description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "Category": "women's clothing",
+      "Image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "Rating": {
+        "Rate": 3.8,
+        "Count": 679
+      },
+      "DiscountedPrice": 37.99,
+      "Stock": 32,
+      "PopularityScore": 12
+    },
+    {
+      "Id": 16,
+      "Title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "Price": 29.95,
+      "Description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "Category": "women's clothing",
+      "Image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+      "Rating": {
+        "Rate": 2.9,
+        "Count": 340
+      },
+      "DiscountedPrice": 27.25,
+      "Stock": 80,
+      "PopularityScore": 23
+    },
+    {
+      "Id": 20,
+      "Title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "Price": 12.99,
+      "Description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "Category": "women's clothing",
+      "Image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "Rating": {
+        "Rate": 3.6,
+        "Count": 145
+      },
+      "DiscountedPrice": 11.17,
+      "Stock": 45,
+      "PopularityScore": 5
+    },
+    {
+      "Id": 18,
+      "Title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "Price": 9.85,
+      "Description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "Category": "women's clothing",
+      "Image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "Rating": {
+        "Rate": 4.7,
+        "Count": 130
+      },
+      "DiscountedPrice": 8.08,
+      "Stock": 6,
+      "PopularityScore": 0
+    },
+    {
+      "Id": 19,
+      "Title": "Opna Women's Short Sleeve Moisture",
+      "Price": 7.95,
+      "Description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "Category": "women's clothing",
+      "Image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "Rating": {
+        "Rate": 4.5,
+        "Count": 146
+      },
+      "DiscountedPrice": 6.36,
+      "Stock": 22,
+      "PopularityScore": 1
+    }
+  ]
+}
